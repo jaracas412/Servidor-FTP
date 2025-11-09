@@ -12,3 +12,4 @@ $TTL 86400
 @ IN NS debian.jose.test.
 101 IN PTR debian.jose.test.
 
+sudo nano /etc/bind/named.conf.local
