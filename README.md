@@ -14,12 +14,13 @@ Primero, clonamos nuestro proyecto previo **dns-paso-a-paso** para utilizarlo co
 A continuación, realizamos las modificaciones necesarias en el servidor. Esto incluye:
 <br>
 
-- Actualizar las direcciones IP, en mi caso mi nueva IP es 192.168.56.101 (de esta manera no tendremos problemas)
+Actualizar las direcciones IP, en mi caso mi nueva IP es 192.168.56.101 (de esta manera no tendremos problemas)
 <br>
 <img width="893" height="389" alt="2 Cambio de IP para evitar problemas" src="https://github.com/user-attachments/assets/03239a9d-730c-49e7-b472-a4368c27571b" />
 <br>
 <br>
-- Configurar las zonas según los requerimientos.
+
+Configurar las zonas según los requerimientos.
 <br>
 Todos los archivos que necesitan cambios se encuentran en la carpeta `config`.
 <br>
