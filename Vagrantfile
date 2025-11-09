@@ -19,7 +19,7 @@ Vagrant.configure("2") do |config|
 
   # Red privada
   # Dirección IP fija asignada al servidor DNS dentro de la red local de Vagrant
-  config.vm.network "private_network", ip: "192.168.41.43"
+  config.vm.network "private_network", ip: "192.168.56.101"
 
   # Nombre asignado a la máquina virtual
   config.vm.hostname = "jose-server"
