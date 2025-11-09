@@ -10,4 +10,4 @@ $TTL 86400
   86400 ) ; Negative Cache TTL
 ;
 @ IN NS debian.jose.test.
-debian.jose.test. IN A 192.168.41.43
+debian.jose.test. IN A 192.168.56.101

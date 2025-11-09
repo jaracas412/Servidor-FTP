@@ -1,5 +1,5 @@
 ;
-; 41.168.192
+; 56.168.192
 ;
 $TTL 86400
 @ IN SOA debian.jose.test. admin.jose.test. (
@@ -10,5 +10,5 @@ $TTL 86400
   86400 ) ; Negative Cache TTL
 ;
 @ IN NS debian.jose.test.
-43 IN PTR debian.jose.test.
+101 IN PTR debian.jose.test.
 

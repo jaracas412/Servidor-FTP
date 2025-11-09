@@ -11,7 +11,7 @@ zone "jose.test" {
   file "/var/lib/bind/jose.test.dns";
 };
 
-zone "41.168.192.in-addr.arpa" {
+zone "56.168.192.in-addr.arpa" {
   type master;
   file "/var/lib/bind/jose.test.rev";
 };
