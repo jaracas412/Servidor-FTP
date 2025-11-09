@@ -199,7 +199,10 @@ para que aparezca cuando introduzca en el servidor un usuario anonimo: **sudo na
 <br>
 Este mensaje va a ser : "---You have accessed the public directory server of 'jose.test'---"
 <br>
-<img width="752" height="95" alt="Creacion de mensaje en el archivo" src="https://github.com/user-attachments/assets/ee783b38-7e9d-48ec-aecd-82aaa213c30f" />
+
+
+<img width="756" height="75" alt="Creacion de mensaje en el archivo" src="https://github.com/user-attachments/assets/06036d66-0c9a-431d-bdc0-68c6a4dd2186" />
+
 <br>
 
 <br>
